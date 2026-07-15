@@ -1,0 +1,28 @@
+# opensrc - source code for packages
+opensrc/
+
+# Virtual environments (regenerate with Day_10/README.md)
+.venv/
+venv/
+
+# Python noise
+__pycache__/
+*.pyc
+
+# Secrets - never commit real API keys
+.env
+!.env.example
+
+# Large course PDF, not meant for the repo
+Langchain.pdf
+
+# AI agent instructions, not for the public repo
+AGENTS.md
+
+# Instructor prep docs, not for students
+lesson.md
+langchain-concepts.md
+code-walkthrough.md
+
+# OS noise
+.DS_Store
