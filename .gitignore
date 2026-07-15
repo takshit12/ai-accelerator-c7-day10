@@ -23,6 +23,11 @@ AGENTS.md
 lesson.md
 langchain-concepts.md
 code-walkthrough.md
+simple_without_lcel-1.md
+simple_lcel.md
+agent-simple-updated.md
+csv_1.md
+updated-arag.md
 
 # OS noise
 .DS_Store
